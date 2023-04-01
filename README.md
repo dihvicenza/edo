@@ -1,5 +1,5 @@
 # edo
-Questa repo contiene i file e le istruzioni per svolgere corsi di robotica educativa utilizzando gli e.DO COMAU.
+Questa repo contiene i file e le istruzioni per svolgere corsi di robotica educativa utilizzando gli e.DO COMAU e Python.
 
 ## Requisiti
 Controlla di avere installato Python (versione 3 o superiore) e Pip. Per esempio, su Mac o Linux:
@@ -20,10 +20,14 @@ Un ambiente virtuale consente di installare e gestire librerie esterne in manier
     - Clicca sul tasto play dell'ambiente `edo-env`
 
 # RoboPython
-Corso per imparare a movimentare l'e.DO utilizzando la liberia Python `pyedo`.
+Corso per imparare a movimentare l'e.DO utilizzando la liberia [pyedo](https://github.com/Comau/pyedo).
 
 Per accedere all'ambiente di sviluppo:
 
 1. Attiva l'ambiente (vedi sezione precedente)
 2. In Home, avviare Jupyter Notebook
-3. Navigare alla cartella contenente il file `robopython.ipynb`
+3. Naviga alla cartella contenente il file `robopython.ipynb` e apri
+
+## Risorse
+
+- https://github.com/Comau/pyedo
