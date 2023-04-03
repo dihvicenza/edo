@@ -15,7 +15,7 @@ Un ambiente virtuale consente di installare e gestire librerie esterne in manier
 3. Importa un nuovo ambiente
     - Vai su Environments 
     - Clicca su Import
-    - Scegli Local Drive e seleziona il file `edo-env.yaml` (presente in questa repository)
+    - Scegli Local Drive e seleziona il file `edo-env.yaml` (se su MacOs) o `win-edo.yml` (se su Windows)
     - Clicca su Import
 4. Attiva l'ambiente virtuale: 
     - Clicca sul tasto play dell'ambiente `edo-env`
