@@ -11,13 +11,15 @@ Controlla di avere installato Python (versione 3 o superiore) e Pip. Per esempio
 Un ambiente virtuale consente di installare e gestire librerie esterne in maniera isolata e sicura. Per questo progetto, usiamo Anaconda.
 
 1. [Installa Anaconda Navigator](https://www.anaconda.com/products/distribution)
-2. Importa un nuovo ambiente
+2. Installa Jupyter Notebook nella sezione "Home" di Anaconda Navigator
+3. Importa un nuovo ambiente
     - Vai su Environments 
     - Clicca su Import
     - Scegli Local Drive e seleziona il file `edo-env.yaml` (presente in questa repository)
     - Clicca su Import
-3. Attiva l'ambiente virtuale: 
+4. Attiva l'ambiente virtuale: 
     - Clicca sul tasto play dell'ambiente `edo-env`
+    - Clicca "Open with Jupyter Notebook"
 
 # RoboPython
 Corso per imparare a movimentare l'e.DO utilizzando la liberia [pyedo](https://github.com/Comau/pyedo).
