@@ -22,13 +22,16 @@ Un ambiente virtuale consente di installare e gestire librerie esterne in manier
     - Clicca "Open with Jupyter Notebook"
 
 # RoboPython
-Corso per imparare a movimentare l'e.DO utilizzando la liberia [pyedo](https://github.com/Comau/pyedo).
+Corso per imparare a movimentare l'e.DO utilizzando la libreria [pyedo](https://github.com/Comau/pyedo).
 
 Per accedere all'ambiente di sviluppo:
 
-1. Attiva l'ambiente (vedi sezione precedente)
-2. In Home, avviare Jupyter Notebook
-3. Naviga alla cartella contenente il file `robopython.ipynb` e apri
+1. Dopo aver impostato l'e.DO (es. da tablet), *disconnetti tutti i dispositivi*.
+2. Disconnetti il tablet o altri dispositivi *anche dal Wi-Fi dell'e.DO*.
+3. Sul PC, connettiti al Wi-Fi dell'e.DO. Nota che perderai accesso a internet da questo dispositivo.
+4. Apri Anaconda Navigator e attiva l'ambiente (vedi sezione precedente).
+5. Nella sezione Home, avvia Jupyter Notebook.
+6. Naviga alla cartella contenente il file `robopython.ipynb` e apri. Segui le istruzioni di connessione.
 
 ## Risorse
 
